@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Repo archiviata: il contenuto, con tutta la history, ora vive in **[giofornari/School](https://github.com/giofornari/School)**.
+
 # ROUTER-GUI
 
 Simulatore grafico di un router IPv4 e della sua Tabella di Instradamento (TDI), fatto in JavaScript per il progetto di Reti.
